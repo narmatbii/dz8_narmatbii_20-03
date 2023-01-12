@@ -1,0 +1,13 @@
+.todo-item {
+    display: flex;
+    align-items: center;
+}
+.done {
+    text-decoration: line-through;
+}
+.todo-item > button {
+    width: 60px;
+    height: 40px;
+    color: cadetblue;
+}
+
